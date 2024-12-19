@@ -47,3 +47,5 @@ Supervisionado:
 
 ## Resultados
 Foi dividos os clientes em 3 perfis distintos para campanha direcionada.
+
+Apresentação por slide: https://github.com/raphapx/Segmentacao_Clientes_MachineLearning/blob/main/Segmenta%C3%A7%C3%A3odeclienteapresentacao.pdf

@@ -38,6 +38,7 @@ Não-supervisionado:
  - Redimensionamento com PCA
  - K-means
  - Clusterização Hierarquica (HCA)
+   
 Supervisionado:
 - Regressão Logística
 - K-Nearest Neighbors
